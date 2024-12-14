@@ -1,0 +1,58 @@
+h1 {
+    font-size: 32px;
+    line-height: 50px;
+    font-weight: 700;
+    text-align: center;
+
+    color: red;
+}
+
+ p {
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 500;
+ }
+
+ img {
+    width: 300px;
+ }
+
+ .iphone-body {
+    width: 600px;
+    height: 300px;
+    background-image: url('../resouerces/iphone-body.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+
+    padding-top: 40px;
+    padding-left: 125px;
+ }
+ .iphone-body-text-wraper {
+      color: white;
+      width: 500px;
+ }
+
+ .iphone-body-text-wraper h2, h3, p {
+   font-size: 12px;
+ }
+
+ .btn {
+     display: block;
+     width: 300px;
+     height: 50px;
+     border: 1px solid royalblue;
+     text-align: center;
+     line-height: 50px;
+     text-decoration: aqua;
+     color: blue;
+     background-color: azure;
+     margin-top: 30px;
+     cursor: pointer;
+ }
+
+ .btn:hover {
+   color: blue;
+   background-color: aqua;
+ }
+ 
